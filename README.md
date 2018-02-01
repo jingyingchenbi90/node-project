@@ -1,3 +1,2 @@
 ## A node project
-
-  - npm instal
+  - npm install
